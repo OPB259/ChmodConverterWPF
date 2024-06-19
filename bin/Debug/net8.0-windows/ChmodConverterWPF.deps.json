@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChmodConverterWPF/1.0.0": {
+        "dependencies": {
+          "ChmodConverter": "1.0.0"
+        },
+        "runtime": {
+          "ChmodConverterWPF.dll": {}
+        }
+      },
+      "ChmodConverter/1.0.0": {
+        "runtime": {
+          "ChmodConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChmodConverterWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChmodConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
